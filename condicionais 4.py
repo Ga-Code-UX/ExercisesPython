@@ -1,5 +1,3 @@
-#Programa com um número e, caso ele seja positivo calcular esse número ao quadrado e sua raiz quadrada
-
 import math
 
 a= float(input(" Digite o número: " ))
